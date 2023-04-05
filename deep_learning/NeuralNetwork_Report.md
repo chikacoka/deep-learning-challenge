@@ -42,3 +42,7 @@ The second best improvement occurred when the L2 regularization technique was ad
 •	Trying different activation functions could potentially improve the performance of a model, as each function could have an advantage over others depending on specific prevailing factors
 •	A different type of neural model architectural could be tried to ascertain if it performs better than the existing model
 However, optimization should be carried out in a systematic way by making one change at a time and evaluating the impact on the model's performance. Incorporating the above techniques could result an enhanced model with better results
+
+References
+
+https://www.tensorflow.org/guide/keras/save_and_serialize
